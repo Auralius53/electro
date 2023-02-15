@@ -1,0 +1,147 @@
+body {
+  background-color: #1d1f21;
+}
+
+.mainCenterContainer {
+  display: block;
+  border: 1px solid #1d1f21;
+  height: 550px;
+  width: 600px;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.topContainer {
+  display: block;
+  border: 1px solid #1d1f21;
+  height: 80px;
+}
+
+.topLogo {
+  display: block;
+  border: 1px solid #1d1f21;
+  height: 80px;
+  width: 85px;
+  float: left;
+}
+
+h1 {
+  margin-bottom: 10px;
+}
+
+.topContainerHeading {
+  border: 1px solid #1d1f21;
+  height: 40px;
+  width: 250px;
+  float: left;
+}
+
+.nameHeading {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: #c9cacc;
+  top: 50%;
+  transform: translate(0, -72%);
+  font-size: 27px;
+}
+
+.topSocialLinks {
+  border: 1px solid #1d1f21;
+  height: 40px;
+  width: 250px;
+  margin-top: 40px;
+  margin-left: 87px;
+}
+
+.webDesc {
+  border: 1px solid #1d1f21;
+  width: 600px;
+  height: 75px;
+  margin-top: 35px;
+}
+
+.boxContent {
+  border: 1px solid #1d1f21;
+  width: 600px;
+  height: auto;
+  margin-top: 35px;
+}
+
+.bottomContent {
+  border: 1px solid #1d1f21;
+  width:600px;
+  height: 90px;
+  margin-top: 200px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 13px;
+  color: #26bc8a;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul {
+  list-style-type: none;
+  top: 50%;
+  transform: translate(0, -20%);
+  padding: 0px;
+  margin: 0px;
+}
+
+li {
+  text-decoration: none;
+  display: inline;
+}
+
+.webDescHeading {
+  font-size: 15px;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-     serif;
+  margin: 0 auto;
+}
+
+.webDescSubHead {
+  font-size: 12px;
+  color: #c9cacc;
+  font-family: Verdana, Geneva, Tahoma, sans-     serif;
+  margin: 0 auto;
+}
+
+.postHeading {
+  font-size: 21px;
+  color: #26bc8a;
+  font-family: Verdana, Geneva, Tahoma, sans-     serif;
+  margin: 0 auto;
+}
+
+.postDesc {
+  font-size: 12px;
+  color: #c9cacc;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  margin: 0 auto;
+}
+
+.bottomText {
+  font-size: 12px;
+  color: #4f4f4f;
+  text-align: center;
+  margin: 0 auto;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bottomText2 {
+  font-size: 10px;
+  color: #4f4f4f;
+  margin: 0 auto;
+  text-align: center;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.center {
+  display: block;
+  margin-top: 9px;
+  margin-left: auto;
+  margin-right: 20px;
+}
+
+.link:hover { color: #00FF00; }
